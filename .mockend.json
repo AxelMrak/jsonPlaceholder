@@ -1,0 +1,82 @@
+{
+	"product1": {
+		"title": "Meditations",
+        "author": "Marcus Aurelius",
+		"description": "Written in Greek by an intellectual Roman emperor without any intention of publication, the Meditations of Marcus Aurelius  offer a wide range of fascinating spiritual reflections and exercises developed as the leader struggled to understand himself and make sense of the universe. Spanning from doubt and despair to conviction and exaltation, they cover such diverse topics as the question of virtue, human rationality, the nature of the gods and the values of leadership. But while the Meditations were composed to provide personal consolation, in developing his beliefs Marcus also created one of the greatest of all works of philosophy: a series of wise and practical aphorisms that have been consulted and admired by statesmen, thinkers and ordinary readers for almost two thousand years.",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1404/9780140449334.jpg",
+        "price": 11.00,
+		"stock": 80
+	},
+	"product2": {
+		"title": "Moby Dick",
+		"author": "Herman Melville",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/8532/9781853260087.jpg",
+		"description": "A masterpiece of storytelling, this epic saga pits Ahab, a brooding and fantastical sea captain, against the great white whale that crippled him. In telling the tale of Ahab's passion for revenge and the fateful voyage that ensued, Melville produced far more than the narrative of a hair-raising journey; Moby-Dick is a tale for the ages that sounds the deepest depths of the human soul.",
+		"price": 24.0,
+		"stock": 100
+	},
+	"product3": {
+		"title": "The Republic",
+		"author": "Plato",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1404/9780140455113.jpg",
+		"description": "Presented in the form of a dialogue between Socrates and three different interlocutors, it is an inquiry into the notion of a perfect community and the ideal individual within it. During the conversation other questions are raised: what is goodness; what is reality; what is knowledge? The Republic also addresses the purpose of education and the role of both women and men as guardians of the people. With remarkable lucidity and deft use of allegory, Plato arrives at a depiction of a state bound by harmony and ruled by philosopher kings.",
+		"price": 30.2,
+		"stock": 60
+	},
+	"product4": {
+		"title": "The Prince",
+		"author": "Niccolò Machiavelli",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/4862/9780486272740.jpg",
+		"description": "The Prince is a 16th-century political treatise written by Italian diplomat and political theorist Niccolò Machiavelli as an instruction guide for new princes and royals. The general theme of The Prince is of accepting that the aims of princes – such as glory and survival – can justify the use of immoral means to achieve those ends.",
+		"price": 40.25,
+		"stock": 40
+	},
+	"product5": {
+		"title": "Communist Manifesto",
+		"author": "Karl Marx and Friedrich Engels",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/8503/9780850364781.jpg",
+		"description": "Manifesto of the Communist Party (German: Manifest der Kommunistischen Partei), often referred to as The Communist Manifesto, was published on February 21, 1848, and is one of the world's most influential political manuscripts. Commissioned by the Communist League and written by communist theorists Karl Marx and Friedrich Engels, it laid out the League's purposes and program. It presents an analytical approach to the class struggle (historical and present) and the problems of capitalism, rather than a prediction of communism's potential future forms.",
+		"price": 10,
+		"stock": 200
+	},
+	"product6": {
+		"title": "Crime and Punishment",
+		"author": "Fyodor Dostoevsky",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/8402/9781840224306.jpg",
+		"description": "Crime and Punishment is one of the greatest and most readable novels ever written. From the beginning we are locked into the frenzied consciousness of Raskolnikov who, against his better instincts, is inexorably drawn to commit a brutal double murder.",
+		"price": 55,
+		"stock": 60
+	},
+	"product7": {
+		"title": "Man's Search For Meaning",
+		"author": "Viktor E. Frankl",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/8460/9781846041242.jpg",
+		"description": "A prominent Viennese psychiatrist before the war, Viktor Frankl was uniquely able to observe the way that he and other inmates coped with the experience of being in Auschwitz. He noticed that it was the men who comforted others and who gave away their last piece of bread who survived the longest - and who offered proof that everything can be taken away from us except the ability to choose our attitude in any given set of circumstances.",
+		"price": 20,
+		"stock": 100
+	},
+	"product8": {
+		"title": "The Interpretation of Dreams",
+		"author": "Sigmund Freud",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/8532/9781853264849.jpg",
+		"description": "Freud is acknowledged as the founder of psychoanalysis, the key to unlocking the human mind, a task which has become essential to man's survival in the twentieth century, as science and technology have rushed ahead of our ability to cope with their consequences.",
+		"price": 60,
+		"stock": 30
+	},
+	"product9": {
+		"title": "The Divine Comedy",
+		"author": "Dante Alighieri",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/8571/9781857151831.jpg",
+		"description": "This edition prints all three parts of Dante's great poem about the journey of the soul - INFERNO, PURGATORIO and PARADISO - in the recent English translation by Allen Mandelbaum, with an introduction and explanatory notes on each canto by the noted Dante scholar, Peter Armour. This is the only reasonably priced hardback edition of one of the world's greatest masterworks and should prove to be the most accessible for students and general readers alike. It includes Botticelli's glorious and relatively unknown illustrations of THE DIVINE COMEDY, drawn in the 1480s.",
+		"price": 80.90,
+		"stock": 20
+	},
+	"product10": {
+		"title": "The Myth of Sisyphus",
+		"author": "Albert Camus",
+		"front": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1410/9780141023991.jpg",
+		"description": "Throughout history, some books have changed the world. They have transformed the way we see ourselves - and each other. They have inspired debate, dissent, war and revolution. They have enlightened, outraged, provoked and comforted. They have enriched lives - and destroyed them. Now Penguin brings you the works of the great thinkers, pioneers, radicals and visionaries whose ideas shook civilization and helped make us who we are. Inspired by the myth of a man condemned to ceaselessly push a rock up a mountain and watch it roll back to the valley below, The Myth of Sisyphus transformed twentieth-century philosophy with its impassioned argument for the value of life in a world without religious meaning.",
+		"price": 30.25,
+		"stock": 100
+	}
+}
